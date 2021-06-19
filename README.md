@@ -1,1 +1,1 @@
-src:  http://www.templatemo.com/tm-467-easy-profile
+src:http://www.templatemo.com/tm-467-easy-profile
